@@ -1,6 +1,6 @@
 ### 👋 about me
 
-**contact me @ [sp5.lol](https://sp5.lol)**
+╰ **contact me @ [sp5.lol](https://sp5.lol)**
 
 ---
 
