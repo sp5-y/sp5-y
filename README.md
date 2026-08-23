@@ -1,18 +1,18 @@
-### sp5
+### about me
 
-small tools and experiments.
+personal projects & tools
 
-**[sp5.lol](https://sp5.lol)**
+**contact me @ [sp5.lol](https://sp5.lol)**
 
 ---
 
-#### projects
+#### 📌 pinned
 
 | project | |
 |:--|:--|
-| **[discord-larp-plugin](https://github.com/sp5-y/discord-larp-plugin)** | Vencord plugin for local profile spoofing — badges, decorations, connections, username |
+| **[discord-larp-plugin](https://github.com/sp5-y/discord-larp-plugin)** | Vencord plugin for visual profile spoofing |
 | **[fortnite-giftbot](https://github.com/sp5-y/fortnite-giftbot)** | manage multiple accounts and gift your friends |
-| **[stumbleguys-assets](https://github.com/sp5-y/stumbleguys-assets)** | static Stumble Guys assets — ranks, skins, abilities |
+| **[stumbleguys-assets](https://github.com/sp5-y/stumbleguys-assets)** | static Stumble Guys assets |
 
 <br/>
 
