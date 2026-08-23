@@ -8,7 +8,7 @@ small tools and experiments.
 
 #### projects
 
-| | |
+| project | |
 |:--|:--|
 | **[discord-larp-plugin](https://github.com/sp5-y/discord-larp-plugin)** | Vencord plugin for local profile spoofing — badges, decorations, connections, username |
 | **[fortnite-giftbot](https://github.com/sp5-y/fortnite-giftbot)** | manage multiple accounts and gift your friends |
