@@ -1,4 +1,4 @@
-### about me
+### 👋 about me
 
 **contact me @ [sp5.lol](https://sp5.lol)**
 
