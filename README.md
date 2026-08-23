@@ -1,12 +1,10 @@
 ### about me
 
-personal projects & tools
-
 **contact me @ [sp5.lol](https://sp5.lol)**
 
 ---
 
-#### 📌 pinned repository
+#### 📌 pinned
 
 | project | |
 |:--|:--|
