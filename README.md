@@ -4,7 +4,7 @@
 
 ---
 
-#### 📌 pinned
+### 📌 pinned
 
 | project | |
 |:--|:--|
