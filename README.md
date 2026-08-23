@@ -6,7 +6,7 @@ personal projects & tools
 
 ---
 
-#### 📌 pinned
+#### 📌 pinned repository
 
 | project | |
 |:--|:--|
